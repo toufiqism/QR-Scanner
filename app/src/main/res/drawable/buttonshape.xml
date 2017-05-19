@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners
+        android:bottomLeftRadius="5dp"
+        android:bottomRightRadius="100dp"
+        android:topLeftRadius="100dp"
+        android:topRightRadius="5dp" />
+    <gradient
+        android:centerColor="@color/bill_month_text_bangla_color"
+        android:centerX="35%"
+        android:centerY="50%"
+        android:endColor="@color/bill_date_color"
+        android:gradientRadius="100"
+        android:startColor="@color/bill_background"
+        android:type="radial" />
+    <padding
+        android:bottom="0dp"
+        android:left="0dp"
+        android:right="0dp"
+        android:top="0dp" />
+    <size
+        android:width="270dp"
+        android:height="60dp" />
+    <stroke
+        android:width="3dp"
+        android:color="#878787" />
+</shape>

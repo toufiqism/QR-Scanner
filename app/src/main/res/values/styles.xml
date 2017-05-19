@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/bill_background</item>
+        <item name="colorPrimaryDark">@color/bill_date_color</item>
+        <item name="colorAccent">@color/bill_keypad_shade</item>
+    </style>
+
+</resources>

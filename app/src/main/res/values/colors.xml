@@ -1,0 +1,125 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="light_black">#262626</color>
+    <color name="deep_blue">#207BAA</color>
+    <color name="blue">#2D7C9D</color>
+    <color name="black">#000000</color>
+    <color name="light_blue">#3E9AC5</color>
+    <color name="ocean_blue">#2D7C9D</color>
+    <color name="gray">#C5C8CD</color>
+    <color name="light_gray">#F1F1F1</color>
+    <color name="ten_percent_gray">#E6E6E6</color>
+    <color name="offwhite">#F6F6F6</color>
+    <color name="whitesmoke_color">#f9f9f9</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="green_color">#00ff00</color>
+    <color name="bluishwhite_color">#e0e1f5</color>
+    <color name="bluish_color">#59B4E0</color>
+    <color name="dark_bluishwhite_color">#ccebff</color>
+  <!--  <color name="red_color">#d80000</color>-->
+    <color name="dark_red_color">#3C0000</color>
+    <color name="deep_green_color">#76e056</color>
+    <color name="test_color">#9d4e2d</color>
+    <color name="jira_color">#9d4e2d</color>
+    <color name="light_red">#ff5a5a</color>
+    <color name="soft_red">#ff3333</color>
+    <color name="cyan_95_color">#e5ffff</color>
+    <color name="cyan_85_color">#b3ffff</color>
+    <color name="blue_celloscope">#0067ac</color>
+    <color name="generic_blue">#006699</color>
+    <color name="button_color">#003366</color>
+    <color name="celloscope_blue">#2D7C9D</color>
+
+    <color name="help_button_view">#ffcccccc</color>
+    <!-- help button view background color -->
+    <color name="help_view">#ff404040</color>
+    <color name="twenty_percent_gray">#cccccc</color>
+    <color name="seventy_percent_gray">#4d4d4d</color>
+    <color name="ninety_percent_gray">#1a1a1a</color>
+    <color name="fifty_percent_gray">#808080</color>
+    <color name="cyan_color">#00ffff</color>
+    <!-- background color for entire help view -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <!-- source language text/label text color. For example, "OCR English" -->
+    <color name="result_text">#ffffffff</color>
+    <!-- OCR result text color -->
+    <color name="result_view">#b0000000</color>
+    <!-- result view background color -->
+    <color name="status_text">#ffffffff</color>
+    <!-- status_view_top/status_view_bottom text color -->
+    <color name="status_top_text_background">#ffffffff</color>
+    <!-- status_view_top text background color -->
+    <color name="translation_text">#00ccff</color>
+    <!-- translation text color -->
+    <color name="viewfinder_corners">#ffffffff</color>
+    <!-- four corner elements for viewfinder -->
+    <color name="viewfinder_frame">#ffff0000</color>
+    <!-- viewfinder rectangle -->
+    <color name="viewfinder_mask">#60000000</color>
+    <!-- viewfinder exterior darkened area -->
+
+
+    <!--Bloggy Gradient Blues -->
+    <!--<color name="header_main_color">#183152</color>-->
+    <!--<color name="header_main_title_color">#375D81</color>-->
+    <!--<color name="bill_footer">#375D81</color>-->
+
+    <!--<color name="bill_month_text_number_color">#183152</color>-->
+    <!--<color name="bill_date_color">#183152</color>-->
+    <!--<color name="bill_month_text_bangla_color">#375D81</color>-->
+    <!--<color name="bill_label_color">#375D81</color>-->
+    <!--<color name="bill_month_border_color">#ABC8E2</color>-->
+    <!--<color name="bill_keypad_shade">#c4d7ed</color>-->
+    <!--<color name="bill_background">#E1E6FA</color>-->
+
+    <!--<color name="date_under_caret">#375D81</color>-->
+
+    <!-- Mustang 1944  -->
+    <!-- <color name="header_main_color">#000000</color>
+     <color name="header_main_title_color">#263248</color>
+     <color name="bill_footer">#263248</color>
+
+     <color name="bill_month_text_number_color">#000000</color>
+     <color name="bill_date_color">#000000</color>
+     <color name="bill_month_text_bangla_color">#263248</color>
+     <color name="bill_label_color">#263248</color>
+     <color name="bill_month_border_color">#7e8aa2</color>
+      <color name="bill_keypad_shade">#407e8aa2</color>
+     <color name="bill_background">#FFFFFF</color>
+
+     <color name="date_under_caret">#f3bb03</color>-->
+
+    <!--Vitamin C  -->
+    <!--      <color name="header_main_color">#004358</color>
+        <color name="header_main_title_color">#1f8a70</color>
+        <color name="bill_footer">#1f8a70</color>
+
+        <color name="bill_month_text_number_color">#004358</color>
+        <color name="bill_date_color">#004358</color>
+        <color name="bill_month_text_bangla_color">#1f8a70</color>
+        <color name="bill_label_color">#1f8a70</color>
+        <color name="bill_month_border_color">#FD7400</color>
+         <color name="bill_keypad_shade">#20FD7400</color>
+        <color name="bill_background">#FFE11A</color>
+
+        <color name="date_under_caret">#f3bb03</color>-->
+
+    <!--Aspirin C-->
+
+        <color name="header_main_color">#225378</color>
+        <color name="header_main_title_color">#1695a3</color>
+        <color name="bill_footer">#1695a3</color>
+
+        <color name="bill_month_text_number_color">#225378</color>
+        <color name="bill_date_color">#225378</color>
+        <color name="bill_month_text_bangla_color">#1695a3</color>
+        <color name="bill_label_color">#1695a3</color>
+        <color name="bill_month_border_color">#acf0f2</color>
+         <color name="bill_keypad_shade">#20acf0f2</color>
+        <color name="bill_background">#F3FFE2</color>
+
+        <color name="date_under_caret">#f3bb03</color>
+
+
+</resources>

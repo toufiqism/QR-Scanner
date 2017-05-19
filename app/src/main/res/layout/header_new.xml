@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:celloscope="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    android:background="@color/header_main_color"
+    android:paddingTop="5dp"
+    android:weightSum="5">
+
+    <LinearLayout
+        android:id="@+id/swipe_layoutTitlesInHeader"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/header_main_title_color"
+        android:orientation="horizontal"
+        android:visibility="visible"
+        android:weightSum="2">
+
+
+    </LinearLayout>
+
+</RelativeLayout>
